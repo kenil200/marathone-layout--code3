@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    margin: 10px;
+    margin-top: 60px;
+    position: relative;
+    font-family: arial;
+   
+}
+.logo{
+    background-color: rgba(0, 0, 0, 0.332);
+    color: white;
+    width: 75.7%;
+    height: 300px;
+    position: absolute;
+    z-index: 40;
+    left:10px ;
+    margin-top: 79px;
+}
+.background{
+    width: 23%;
+    height: 700px;
+    background-color: rgba(100, 116, 129, 0.228);
+    position: absolute;
+    z-index: 40;
+    margin-top: 78px;
+    text-align: center;
+    color: white;
+    
+    
+    
+}
+.background_1{
+    background-color: rgba(228, 231, 41, 0.555);
+    width: 75.7%;
+    height: 211px;
+    position: absolute;
+    z-index: 40;
+    bottom: -441px;
+    top: 70%;
+    left: 10px;
+    color: white;
+   margin-top: 46px;
+  
+    
+}
+.background_2{
+    background-color: rgba(6, 8, 10, 0.372);
+    color: white;
+    width:23%;
+    height: 205PX;
+    position: absolute;
+    z-index: 60;
+    bottom: 60px;
+    margin-left: 1160px;
+    text-align: center;
+    
+  
+}
+.CODED{
+    background-color:rgba(68, 140, 234, 0.851);
+    width:23%;
+    height: 215PX;
+    margin-left: 1160px;
+    margin-top: -170px;
+    text-align: center;
+}
+   
+ .ourcompany{
+    background-color: rgb(240, 237, 233);
+    width:75.5% ;
+    height:600PX ;
+    margin-left: 11px;
+    float: left;
+    
+    
+ } 
+ .SECOND{
+    background-color: white;
+    width:23% ;
+    height: 500PX;
+    float: left;
+    margin-left: 3px;
+    
+    
+ } 
+ .font_1{
+    
+  
+    
+ }
+ .font_2{
+    padding: 100px;
+    margin-top: -70px;
+ }
+ .font_3{
+    padding: 100px;
+    margin-top: -180px;
+    text-align: justify;
+ }
+ 
+ .line{
+    padding: 1%;
+    background-color: chocolate;
+    width: 119%;
+    margin-right: -50px;
+    margin-top: 14px;
+    margin-left: -99px;
+}
+ }   
